@@ -12,11 +12,11 @@ This is a Report for a Air Quality Analysis with SQL Queries and contains the 5 
 
 The main goal of this work is to extract informations about air quality indexes around the world. The 5 questions below must be answered:
 
-1- What pollutants were considered in the survey?
-2- What was the average pollution over time caused by Nitrogen dioxide (no2)?
-3- What was the average pollution caused by the Nitrogen dioxide (no2) per country measured in micrograms per cubic meter?
-4- Which countries had the 3 highest levels of overall no2 pollution?
-5- Which locations and countries had an average pollution in 2020 above 95 µg/m3 for pm25?
+### 1- What pollutants were considered in the survey?
+### 2- What was the average pollution over time caused by Nitrogen dioxide (no2)?
+### 3- What was the average pollution caused by the Nitrogen dioxide (no2) per country measured in micrograms per cubic meter?
+### 4- Which countries had the 3 highest levels of overall no2 pollution?
+### 5- Which locations and countries had an average pollution in 2020 above 95 µg/m3 for pm25?
 
 ## Data Collection and Extraction
 
